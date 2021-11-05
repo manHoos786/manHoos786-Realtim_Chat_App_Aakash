@@ -4,6 +4,8 @@
 
 // import io from 'socket.io-client'
 
+// const io = require('socket.io-client');
+
 const endpoint = "https://real-time-chat-aakash.herokuapp.com"
 
 

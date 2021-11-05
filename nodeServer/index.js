@@ -16,7 +16,7 @@ const io = socketio(server, {
 
     cors: {
 
-      origin: '*',
+      origin: 'https://real-time-chat-aakash.herokuapp.com',
 
     }
 
