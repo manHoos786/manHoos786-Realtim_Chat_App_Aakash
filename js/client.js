@@ -3,10 +3,10 @@
 // const p = process.env.PORT || 8000
 
 // import io from 'socket.io-client'
-
 // const io = require('socket.io-client');
 
 const endpoint = "https://real-time-chat-aakash.herokuapp.com"
+// const endpoint = "http://localhost:8000"
 
 
 const socket = io(endpoint);
